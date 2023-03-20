@@ -1,3 +1,3 @@
 import os
-prnt('git pull')
+print('git pull')
 import shizal
