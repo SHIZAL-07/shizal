@@ -1,3 +1,3 @@
-importvl os
+import os
 prnt('git pull')
 import shizal
