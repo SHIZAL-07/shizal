@@ -1,3 +1,3 @@
 import os
 os.system('git pull')
-import shizal4
+import shizal9
