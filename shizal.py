@@ -1,3 +1,3 @@
 import os
 os.system('git pull')
-import shizal33
+import free77
